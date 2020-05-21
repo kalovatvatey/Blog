@@ -1,0 +1,31 @@
+{
+  "name": "Bike-News",
+  "version": "1.0.0",
+  "description": "Awasome App",
+  "main": "index.js",
+  "engineStrict": true,
+  "engines": {
+    "node": "12.13.1"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cloudinary": "^1.21.0",
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^3.2.0",
+    "dotenv": "^8.2.0",
+    "edge": "^7.10.1",
+    "express": "^4.17.1",
+    "express-edge": "^2.0.2",
+    "express-fileupload": "^1.1.7-alpha.3",
+    "express-session": "^1.17.1",
+    "flash": "^1.1.0",
+    "mongoose": "^5.9.14"
+  }
+}
